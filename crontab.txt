@@ -1,0 +1,5 @@
+#In your crontab:
+
+#if path is long, you can crete bash script
+00 11 * * * <your_python_path>/python <file_path>/aero_task.py 
+00 23 * * * <your_python_path>/python <file_path>/aero_task.py 
